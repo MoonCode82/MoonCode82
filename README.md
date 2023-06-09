@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MoonCode82
-- 👀 I’m interested in music, video games, coding, and much more!
 - 🌱 I’m currently learning Python baby!!
 - 📫 How to reach me - twiter @Wingz02 
 
